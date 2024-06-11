@@ -79,3 +79,5 @@ Markdown, 文本修饰语言，用特殊符号修饰正文效果<br>
 
 [Github](https://www.github.com "点击访问")<br>
 [bilibili](https://www.bilibili.com "点击进入二次元")
+[我的b站](https://space.bilibili.com/363098921?spm_id_from=333.1007.0.0 "关注我关注我“)
+[我的抖音](https://www.douyin.com/user/self "努力成为超级coser的一天”)
